@@ -7,7 +7,7 @@
     I'm a Computer Science Student from Italy.
     <br>
     <br>
-    #java, #Csharp, #Unity3D
+    #java, #csharp, #unity3D
   </samp>
   <br>
   <br>
