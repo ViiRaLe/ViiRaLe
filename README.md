@@ -2,7 +2,7 @@
   <br>
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ViiRaLe.github.io">ViiRaLe</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ViiRaLe.com">ViiRaLe</a></b>.
     <br>
     I'm a Junior Software Developer and Computer Science Student from Italy.
     <br>
