@@ -4,7 +4,7 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ViiRaLe.com">ViiRaLe</a></b>.
     <br>
-    I'm a Junior Software Developer and Computer Science Student from Italy.
+    I'm a Software Developer from Italy.
     <br>
     <br>
     #java, #csharp, #unity3D
